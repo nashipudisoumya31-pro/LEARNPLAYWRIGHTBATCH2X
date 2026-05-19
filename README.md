@@ -35,6 +35,23 @@ A structured learning repository covering JavaScript fundamentals as a foundatio
 | `14_var_functionscope.js` | Function scope with var |
 | `15_let_scope.js` | Block scope with let |
 | `16_Hoisting.js` | Hoisting in JavaScript |
+| `17_hoisting_fn.js` | Hoisting with functions |
+| `18_let_hoisting.js` | let and hoisting behaviour |
+| `19_let_hoisting_block.js` | let hoisting in block scope |
+| `20_let_const.js` | let and const combined concepts |
+| `21_Jr_QA.js` | Junior QA practice exercises |
+
+### Chapter 05 - Literals
+| File | Topic |
+|------|-------|
+| `22_Literal.js` | Introduction to literals |
+| `23_null_undefined.js` | null and undefined literals |
+| `24_null.js` | null in depth |
+| `25_Literal_All.js` | Overview of all literal types |
+| `26_Literal_Number_all.js` | Number literals explained |
+| `27_String.js` | String literals |
+| `28_Template_Literal.js` | Template literals (backtick strings) |
+| `29_Backtick_single_double.js` | Backtick vs single vs double quotes |
 
 ## Prerequisites
 
